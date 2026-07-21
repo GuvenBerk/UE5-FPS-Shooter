@@ -2,8 +2,6 @@
 
 **Unreal Engine 5 · Blueprint · Team Capstone Project**
 
-> This project is shared for portfolio and job application purposes.
-
 ---
 
 ## 🎮 Play the Game

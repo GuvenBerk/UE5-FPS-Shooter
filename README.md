@@ -57,6 +57,9 @@ Working on this project also taught me:
 
 ## 📄 Source Code
 
-Full project source is large (~23GB including content assets) and is 
-available on request. A packaged Windows build is available via the 
-itch.io link above.
+Full project files (~23GB, including source code, content assets, and 
+raw footage) are available here:
+
+🔗 **[Project Files (Google Drive)](https://drive.google.com/drive/folders/1xqygyZ_8vyyV-rL8ozjc3yqh41jbc-UN?usp=sharing)**
+
+A packaged Windows build is also available via the itch.io link above.
